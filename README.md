@@ -1,1 +1,1 @@
-# minecraftwpps.github.io
+# minecraft.github.io
